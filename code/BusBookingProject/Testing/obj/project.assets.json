@@ -992,11 +992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keerthana\\OneDrive\\Desktop\\Final\\Rll-master\\code\\BusBookingProject\\Testing\\Testing.csproj",
+      "projectUniqueName": "C:\\Users\\Keerthana\\OneDrive\\Desktop\\RE-RLL\\code\\BusBookingProject\\Testing\\Testing.csproj",
       "projectName": "Testing",
-      "projectPath": "C:\\Users\\Keerthana\\OneDrive\\Desktop\\Final\\Rll-master\\code\\BusBookingProject\\Testing\\Testing.csproj",
+      "projectPath": "C:\\Users\\Keerthana\\OneDrive\\Desktop\\RE-RLL\\code\\BusBookingProject\\Testing\\Testing.csproj",
       "packagesPath": "C:\\Users\\Keerthana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keerthana\\OneDrive\\Desktop\\Final\\Rll-master\\code\\BusBookingProject\\Testing\\obj\\",
+      "outputPath": "C:\\Users\\Keerthana\\OneDrive\\Desktop\\RE-RLL\\code\\BusBookingProject\\Testing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Keerthana\\AppData\\Roaming\\NuGet\\NuGet.Config",

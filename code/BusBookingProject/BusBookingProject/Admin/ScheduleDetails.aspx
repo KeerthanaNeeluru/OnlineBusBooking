@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style type="text/css">
         .auto-style1 {
-            margin-left: 40px;
+            margin-left: 176px;
         }
     </style>
 </asp:Content>
@@ -13,7 +13,7 @@
         <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/Admin/UpdateBusSchedule.aspx">Reschedule</asp:LinkButton>
 <br />
     <h4 style="text-align:center">Bus Schedule Details</h4>
-    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" CssClass="auto-style1" Width="931px" AllowPaging="True">
+    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" CssClass="auto-style1" Width="931px" AllowPaging="True" AllowSorting="True">
     <Columns>
         <asp:BoundField DataField="ScheduleId" HeaderText="ScheduleId" InsertVisible="False" ReadOnly="True" SortExpression="ScheduleId" />
         <asp:BoundField DataField="BusId" HeaderText="BusId" SortExpression="BusId" />
